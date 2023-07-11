@@ -26,7 +26,7 @@
 </div>
 <div align="center">
   
-![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)
+[![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)](https://www.codewars.com/users/aysenur00)
 </div>
 <!---
 <div align="center">
