@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">a senior year student majoring in CS</h3>
 
@@ -20,16 +19,17 @@
 <br>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
 </div>
-
 <div align="center">
+<h2 align="center"><b>My Stats:</b></h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysenur00&show_icons=true&locale=en&layout=compact" alt="aysenur00" /></p>
 </div>
-<br>
+<div align="center">
+  
+![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)
+</div>
 <!---
 <div align="center">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aysenur00&show_icons=true&locale=en" alt="aysenur00" /></p>
 </div>
 -->
-
