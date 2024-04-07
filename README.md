@@ -22,7 +22,8 @@
 </div>
 <div align="center">
 <h2 align="center"><b>My Stats:</b></h2> 
-[![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)](https://www.codewars.com/users/aysenur00)
+
+  [![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)](https://www.codewars.com/users/aysenur00)
 </div>
 <!---
 <div align="center">
