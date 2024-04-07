@@ -21,11 +21,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </div>
 <div align="center">
-<h2 align="center"><b>My Stats:</b></h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysenur00&show_icons=true&locale=en&layout=compact" alt="aysenur00" /></p>
-</div>
-<div align="center">
-  
+<h2 align="center"><b>My Stats:</b></h2> 
 [![Codewars](https://github.r2v.ch/codewars?user=aysenur00&theme=gradient_purple_light&hide_clan=true)](https://www.codewars.com/users/aysenur00)
 </div>
 <!---
