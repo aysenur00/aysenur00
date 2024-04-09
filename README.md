@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">a senior year student majoring in CS</h3>
 
-<p align="center">- 🌱 I’m currently learning <b>React, Node.js</b></p>
+<p align="center">- 🌱 I’m currently learning <b>React, Spring Boot</b></p>
 <div align="center">
 <a><img src="https://media.giphy.com/media/ZR9nqLI2ZhUU8/giphy.gif" style="width:250px;"></a>
 </div>
